@@ -1,0 +1,3 @@
+We are Mar Gil, Carlos Sevilla, and Manuel Sellés, a group of students of the Bachelor's Double Degree in Mathematics + Telecommunication Technologies and Services Engineering from the Universitat Politècnica de València.
+As we live near the port, the sea is a big concern for us, so in our project, we chose to deal with some aspects of maritime transport based on statistical data analysis.
+We have learned how much impact global crises have, how ports influence the economy of big and little countries, and even predict the importance of future events. By learning more about the topic, we are able to build a founded opinion about the subject now.
